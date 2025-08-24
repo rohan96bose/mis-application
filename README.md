@@ -29,8 +29,9 @@ Developed using **Node.js**, **MySQL**, **HTML**, **Tailwind CSS**, and **AOS**.
 1. Clone the repository  
    git clone https://github.com/YOUR-USERNAME/salon-pos-management.git
 2. Install [XAMPP](https://www.apachefriends.org/) and start Apache & MySQL.
-3. Move the project folder to the `htdocs` directory inside XAMPP:
-4. Open a terminal in the project directory and run the server with: ~~ bash nodemon server.js
+3. Move the project folder to the `htdocs` directory inside XAMPP
+4. Import mis.sql in mysql using xampp
+5. Open a terminal in the project directory and run the server with: ~~ bash nodemon server.js
 
 ## 📊 Dashboard Preview
 

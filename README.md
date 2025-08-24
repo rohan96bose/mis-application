@@ -20,7 +20,7 @@ Developed using **Node.js**, **MySQL**, **HTML**, **Tailwind CSS**, and **AOS**.
 ## 🛠 Tech Stack
 
 - **Frontend:** HTML, Tailwind CSS, AOS.js
-- **Backend:** Node.js (Core modules, no framework)
+- **Backend:** Node.js 
 - **Database:** MySQL (via XAMPP)
 
 ---

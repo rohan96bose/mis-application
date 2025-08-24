@@ -37,5 +37,5 @@ Developed using **Node.js**, **MySQL**, **HTML**, **Tailwind CSS**, and **AOS**.
 ![Dashboard Screenshot](screenshots/dashboard.png)
 ![Dashboard Screenshot](screenshots/report.png)
 ![Dashboard Screenshot](screenshots/register.png)
-![Dashboard Screenshot](screenshots/vist.png)
+![Dashboard Screenshot](screenshots/visit.png)
 ![Dashboard Screenshot](screenshots/loan.png)
